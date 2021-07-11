@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">18-Arid-3033_Practical</string>
+    <string name="classes">
+        <item>BSES</item>
+        <item>BSCS</item>
+        <item>BSIT</item>
+    </string>
+</resources>
